@@ -37,9 +37,9 @@ Of course, you can make a makefile for it. However, it will not be given here fo
 ## Notes
 - Some optimization routines may not work due to GitHub file upload limitations.
 - Future updates will extend functionality to handle more file formats, prediction, and additional regression methods, or even making it in CMake to collect them as Machine Learning libraries.
-
+- Development time is long and demanding, and I'm still learning OOP concepts such as polymorphism and templates. Updates will come as I continue to grow this project
 
 ## Closing 
-Stay tune for the updates, if I still have enough time to code them as the development time is quite long and demanding, and I myself is still a beginner in OOP coding (still need to learn more about polymorphism, template, etc.). Thank you very much 
+Stay tuned for the updates. Thank you very much 
 <br> <br>
 Bryan Goh (18th November 2025)
